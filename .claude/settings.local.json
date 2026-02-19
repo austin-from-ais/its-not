@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c:*)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)",
+      "Bash(printf:*)",
+      "Bash(python:*)",
+      "Bash(PYTHONIOENCODING=utf-8 python:*)",
+      "Bash(printenv:*)"
+    ]
+  }
+}
